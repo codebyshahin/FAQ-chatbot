@@ -29,4 +29,4 @@ This is the **half version** of the final project — the full version will use 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/faq-chatbot.git
+  https://github.com/codebyshahin/FAQ-chatbot
