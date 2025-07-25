@@ -4,6 +4,7 @@ body {
   display: flex;
   justify-content: center;
   padding-top: 40px;
+  
 }
 
 .chat-container {
@@ -36,7 +37,7 @@ input {
 
 button {
   padding: 8px 15px;
-  background: #007bff;
+  background: #e100ff;
   color: white;
   border: none;
   border-radius: 5px;
