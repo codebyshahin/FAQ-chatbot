@@ -1,32 +1,32 @@
-# AI FAQ Chatbot 💬
+# 🤖 AI-Powered FAQ Chatbot
 
-This is a simple AI-powered FAQ Chatbot built using **HTML**, **CSS**, and **JavaScript**.  
-It simulates a chatbot interface where users can ask questions and receive a static response.  
-This is the **half version** of the final project — the full version will use **React** and connect to **OpenAI's API** for real answers.
+A simple full-stack chatbot built using **React** (frontend), **Node.js + Express** (backend), and basic **AI logic** to answer frequently asked questions.
 
----
+## 🚀 Features
 
-## 🌟 Features
+- Ask questions like “How does this work?”, “What is React?”
+- AI responds based on predefined logic
+- Express backend with simple NLP matching
+- React frontend UI with chat interface
+- Feedback buttons (👍👎)
+- Full-stack integration
 
-- Clean UI and responsive layout
-- Chat interface with user input
-- Fake bot replies (for now)
-- No backend required
-- Perfect for practice or demo purpose
+## 🧠 Technologies Used
 
+- Frontend: React, CSS
+- Backend: Node.js, Express
+- Language: JavaScript
+- Hosting: (add if deployed)
 
----
+## 📷 Screenshot
 
-## 🛠️ Technologies Used
+![Chatbot Screenshot](./ai-faq-chatbot-client/public/screenshot.png)
 
-- HTML
-- CSS
-- JavaScript (Vanilla)
+## 🔧 Installation Steps
 
----
+### 1. Clone Repo
 
-## 🚀 How to Run Locally
+```bash
+git clone https://github.com/your-username/ai-faq-chatbot.git
+cd ai-faq-chatbot
 
-1. Clone the repository:
-   ```bash
-  https://github.com/codebyshahin/FAQ-chatbot
